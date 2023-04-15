@@ -1,0 +1,21 @@
+h1{
+    text-align: center;
+}
+
+.box{
+    text-align: center;
+}
+
+
+img{
+    border: 2px solid red;
+    width: 200px;
+    height: 200px;
+    transition: .5s;
+}
+
+img:hover{
+    border-radius: 20px;
+    transition: .5s;
+}
+
